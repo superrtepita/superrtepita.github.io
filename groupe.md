@@ -4,13 +4,6 @@ title: Le Groupe
 subtitle: Une Description du Groupe
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
 ### Arthur Mallet
 
 Arthur a de l’expérience, la programmation et lui, remonte à longtemps, en 6ème avec Scratch si on peut le compter comme une initiation au monde de l’informatique, en 3ème avec python puis en seconde avec C# et Unity.
