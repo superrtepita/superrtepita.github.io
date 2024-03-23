@@ -22,6 +22,7 @@ author: Nazarick Studios
 navbar-links:
   Accueil: "https://superrtepita.github.io"
   Téléchargements: "downloads"
+  Le Jeu: "desc"
   A Propos:
     - Le Groupe: "groupe"
     - Historique: "historique"
@@ -100,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Thetower.com"
+url-pretty: "TheTower.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
