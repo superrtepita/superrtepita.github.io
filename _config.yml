@@ -22,11 +22,11 @@ author: Nazarick Studios
 navbar-links:
   Accueil: "https://superrtepita.github.io"
   Le Jeu: "desc"
+  Téléchargements: "downloads"
   A Propos:
     - Le Groupe: "groupe"
     - Historique: "historique"
     - Outils Utilisés: "sites"
-  Téléchargements: "downloads"
 
 ################
 # --- Logo --- #
