@@ -6,10 +6,11 @@ subtitle: Les Differentes Ressources Disponible au téléchargement
 
 ## Le Jeu
 
-Démo soutenance 1 : [An Internal Link](/guides/content/editing-an-existing-page)
+Démo Soutenance 1 (23/03/24)  : [download](/assets/demos/)
 
 ## Rapports de Soutenance
 
-[An Internal Link](/guides/content/editing-an-existing-page)
+Rapport de soutenance 1 : [download](/assets/texte/soutenance1_v1.1.pdf)
+
 
 
