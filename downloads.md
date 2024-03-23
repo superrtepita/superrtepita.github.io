@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Téléchargements
+subtitle: Les Differentes Ressources Disponible au téléchargement
 ---
 
 ## Le Jeu
