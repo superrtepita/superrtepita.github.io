@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 subtitle: Une Description de Notre jeu
 ---
-
+![](/assets/img/revenant_maudit.png)
 La Maison-Dieu est Un Rogue-like basé sur la construction de deck au tour par tour tactique se déroulant dans un décor de Dark Fantasy, chacune des facettes du jeu a été pensé pour garder l’utilisateur engagé dans le jeu Ce projet s’inspire donc librement de certaines
 facettes des jeux du même genre pour donner un contenu intéressant et rafraîchissant :
 - Le Rogue-like permet de rendre chaque partie unique en raison de la génération procédurale des niveaux de La Maison-Dieu. Les joueurs apprendront de nouvelles stratégies et mécaniques à chaque partie. Ce qui donnera un sens de la progression.
