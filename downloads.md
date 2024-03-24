@@ -6,7 +6,7 @@ subtitle: Les Differentes Ressources Disponible au téléchargement
 
 ## Le Jeu
 
-Démo Soutenance 1 (23/03/24)  : [download](/assets/demos/)
+Démo Soutenance 1 (23/03/24)  : [download](/assets/demos/Nazarick.zip)
 
 ## Rapports de Soutenance
 
