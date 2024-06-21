@@ -8,7 +8,7 @@ subtitle: Les Differentes Ressources Disponible au téléchargement
 
 Démo Soutenance 1 (23/03/24)  : [download](/assets/demos/Nazarick.zip)<br>
 
-Rendu Final (21/06/24) : [download](/assets/demos/Final.zip)
+Rendu Final (21/06/24) : [download](/assets/demos/FINAL.zip)
 
 ## Rapports de Soutenance
 
